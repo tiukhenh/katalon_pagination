@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_New Text Document.txt</name>
+   <tag></tag>
+   <elementGuidId>a3bc1de3-a11a-4488-9f06-2c2d975c6861</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uploaded-files']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#uploaded-files</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ca06ae3-0cd5-43f7-969e-d6577cb7aded</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>uploaded-files</value>
+      <webElementGuid>808ddd1d-82c0-417e-89ec-449d499fefe1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel text-center</value>
+      <webElementGuid>2e00dc7d-9a64-4961-bf08-e86566db6fd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    New Text Document.txt
+  </value>
+      <webElementGuid>67ee1bab-eb6c-48e1-a019-0374337e95d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uploaded-files&quot;)</value>
+      <webElementGuid>98725671-6e90-4153-bc82-5080b744e6b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='uploaded-files']</value>
+      <webElementGuid>75de3dec-badf-4e2f-ba5e-308ab6f659c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div</value>
+      <webElementGuid>da0dba7e-caa7-4c82-a519-837191092976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Uploaded!'])[1]/following::div[1]</value>
+      <webElementGuid>81f94d72-f987-4446-a801-f642cf77efef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elemental Selenium'])[1]/preceding::div[1]</value>
+      <webElementGuid>ea283b58-a690-431f-8e66-476a243eb134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Text Document.txt']/parent::*</value>
+      <webElementGuid>0af79948-4835-46c7-b177-084926a99d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>3c6e28e9-f77c-4cad-b2be-c5011d798906</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'uploaded-files' and (text() = '
+    New Text Document.txt
+  ' or . = '
+    New Text Document.txt
+  ')]</value>
+      <webElementGuid>b4c94974-7180-4f1f-82ba-53dece968057</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
